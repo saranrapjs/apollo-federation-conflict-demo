@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@apollo/federation": "^0.38.1",
+    "@apollo/gateway": "^2.4.8",
+    "@apollo/subgraph": "^2.4.8",
+    "apollo-server": "^3.12.0"
+  }
+}
